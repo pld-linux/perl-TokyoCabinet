@@ -6,7 +6,7 @@ Summary:	TokyoCabinet - Perl binding for Tokyo Cabinet
 Summary(pl.UTF-8):	TokyoCabinet - wiązania Perla do biblioteki Tokyo Cabinet
 Name:		perl-TokyoCabinet
 Version:	1.34
-Release:	8
+Release:	9
 License:	LGPL v2.1+
 Group:		Development/Languages/Perl
 Source0:	http://fallabs.com/tokyocabinet/perlpkg/tokyocabinet-perl-%{version}.tar.gz
